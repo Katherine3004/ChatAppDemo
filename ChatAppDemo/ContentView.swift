@@ -15,7 +15,6 @@ struct ContentView: View {
         VStack {
             VStack {
                 TitleRow()
-                
                 ScrollViewReader { proxy in
                     ScrollView {
                         ForEach(messagesManager.messages, id: \.id) { message in

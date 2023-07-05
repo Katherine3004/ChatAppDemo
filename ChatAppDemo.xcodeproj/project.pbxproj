@@ -113,15 +113,15 @@
 		CC75A49A2A4EFCE6006B280F /* ChatAppDemo */ = {
 			isa = PBXGroup;
 			children = (
-				CC77AEA12A4F5CD9007B7130 /* Extentions */,
 				CC75A4C62A4EFDE3006B280F /* Components */,
+				CC77AEA12A4F5CD9007B7130 /* Extentions */,
 				CC77AE9C2A4F57AA007B7130 /* Models */,
 				CC75A4A12A4EFCE8006B280F /* ChatAppDemo.entitlements */,
 				CC75A49B2A4EFCE6006B280F /* ChatAppDemoApp.swift */,
 				CC75A49D2A4EFCE6006B280F /* ContentView.swift */,
+				CC77AEAD2A4F642B007B7130 /* MessagesManager.swift */,
 				CC75A49F2A4EFCE8006B280F /* Assets.xcassets */,
 				CC75A4A22A4EFCE8006B280F /* Preview Content */,
-				CC77AEAD2A4F642B007B7130 /* MessagesManager.swift */,
 			);
 			path = ChatAppDemo;
 			sourceTree = "<group>";
